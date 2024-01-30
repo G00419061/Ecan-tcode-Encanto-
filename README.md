@@ -1,2 +1,2 @@
-# Ecan-tcode-Encanto-
+# Encan-tcode-Encanto-
 Github for Project Management Group Work
